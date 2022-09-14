@@ -4,8 +4,6 @@ import '../styles/Navbar.css'
 const Navbar = (): JSX.Element => {
     return(
         <div className="Navbar">
-            <ul>
-            </ul>
         </div>
     );
 }
