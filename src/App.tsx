@@ -5,8 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <Navbar/>
-      <h1>Portfolio site is currently in progress.</h1>
+      <h1>Emmanuel Abreu - Software Developer</h1>
     </div>
   );
 }
